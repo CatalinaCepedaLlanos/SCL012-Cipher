@@ -4,7 +4,7 @@ Este programa permite codificar y decodificar información.
 
 ## Creación del Proyecto
 
-Este proyecto fue creado a partir de una necesidad muy espécifica.
+Este proyecto fue creado a partir de una necesidad muy específica.
 
 Para comenzar, haré una breve descripción de cómo y porqué escogí el tema del proyecto. Soy Testigo de Jehová (una religión,
 tal vez no tan conocida) y como tal, nos congregamos semanalmente en un lugar llamado Salón del Reino.
@@ -20,10 +20,9 @@ También era importante incoporar un texto que animara a la gente a seguir reuni
 
 #### Bosquejo a mano alzada
 
-(https://raw.githubusercontent.com/CatalinaCepedaLlanos/SCL012-Cipher/master/IMG_20191030_100910.jpg)
+![alt text](IMG_20191030_100910.img.png)
 
 #### Sketch usando Balsamiq
-
-(https://raw.githubusercontent.com/CatalinaCepedaLlanos/SCL012-Cipher/master/PANTALLA1.jpg)
-(https://raw.githubusercontent.com/CatalinaCepedaLlanos/SCL012-Cipher/master/PANTALLA2.jpg)
-(https://raw.githubusercontent.com/CatalinaCepedaLlanos/SCL012-Cipher/master/PANTALLA3.jpg)
+![alt text](PANTALLA1.img.png)
+![alt text](PANTALLA2.img.png)
+![alt text](PANTALLA3.img.png)
