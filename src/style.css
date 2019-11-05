@@ -1,1 +1,127 @@
-/* Acá va tu código */
+body{
+    background-color: #e8e8e8;
+    margin: 0 30px;
+    font-family: sans-serif;
+}
+    
+#headertop{
+    min-height: 48px;
+    max-height: 68px;
+    background-color: #e8e8e8;  
+}
+
+#headerbottom {
+    min-width: 801px;
+    background-color: #213458;
+    min-height: 47px;
+    margin-top: 38px;
+}
+
+#logo{
+    position: absolute;
+    background-image: url(../Images/logo.png),none;
+    width: 129px;
+    height: 128px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+h1{
+    font-family: sans-serif;
+    color: #E8E8E8;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 5px;
+}
+
+#cheertext{
+    min-height: 70px;
+    background-color: #dfcdc3;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    color: #00334e;
+    padding-top: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#cheertext p{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+button{
+    font-size:25px;
+    padding:10px;
+    background-color:#5588a3;
+    color:#E8E8E8;
+}
+
+#choices div{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+#inputtext {
+    visibility: hidden;
+}
+
+.paragraph{
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 60px;
+    color: #145374; 
+}
+
+#inputtext div{
+    min-height: 100px;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+textarea{
+    background-color: #dfcdc3;
+    min-height: 100px;
+    min-width: 520px;
+}
+
+#offset{
+    font-size: 15px;
+    margin-left: 580px;
+    color: #145374;  
+    float: left;
+}
+
+input{
+    width: 30px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#submit{
+    margin-left: 330px;
+    margin-top: 22px;
+}
+
+#tituloresultado{
+    text-align: center;
+    font-size: 20px;
+    color: #145374; 
+    visibility: hidden;
+}
+
+#result{
+    min-height: 100px;
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+    color: #00334e;
+    padding-top: 10px;
+    font-style: italic;
+    font-weight: bold;
+    visibility: hidden;
+}
