@@ -20,9 +20,17 @@ También era importante incoporar un texto que animara a la gente a seguir reuni
 
 #### Bosquejo a mano alzada
 
-![alt text](IMG_20191030_100910.img.png)
+![alt text](Images/IMG_20191030_100910.img.png)
 
 #### Sketch usando Balsamiq
-![alt text](PANTALLA1.img.png)
-![alt text](PANTALLA2.img.png)
-![alt text](PANTALLA3.img.png)
+![alt text](Images/PANTALLA1.img.png)
+![alt text](Images/PANTALLA2.img.png)
+![alt text](Images/PANTALLA3.img.png)
+
+## Pruebas en usuarios en reales
+
+Se realizaron pruebas en usuarios reales. Un total de 5 personas, las cuales tuvieron la oportunidad de acceder a la página web e
+interactuar en ella. 
+
+## Conclusión del Proyecto
+

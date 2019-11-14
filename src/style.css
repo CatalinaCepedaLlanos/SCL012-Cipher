@@ -4,20 +4,20 @@ body{
     font-family: sans-serif;
 }
     
-#headertop{
+.headertop{
     min-height: 48px;
     max-height: 68px;
     background-color: #e8e8e8;  
 }
 
-#headerbottom {
+.headerbottom {
     min-width: 801px;
     background-color: #213458;
     min-height: 47px;
     margin-top: 38px;
 }
 
-#logo{
+.logo{
     position: absolute;
     background-image: url(../Images/logo.png),none;
     width: 129px;
@@ -26,6 +26,7 @@ body{
     background-size: contain;
 }
 
+/* TAG */
 h1{
     font-family: sans-serif;
     color: #E8E8E8;
@@ -34,7 +35,7 @@ h1{
     padding-top: 5px;
 }
 
-#cheertext{
+.cheertext{
     min-height: 70px;
     background-color: #dfcdc3;
     margin: 0;
@@ -46,7 +47,8 @@ h1{
     font-weight: bold;
 }
 
-#cheertext p{
+/* AQUÍ ESTOY ACCEDIENDO SOLO AL P QUE ESTÁ DENTRO DE ESTA CLASE */
+.cheertext p{
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -58,7 +60,7 @@ button{
     color:#E8E8E8;
 }
 
-#choices div{
+.choices div{
     margin: 0 auto;
     width: 50%;
     text-align: center;
