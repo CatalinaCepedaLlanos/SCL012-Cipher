@@ -5,7 +5,6 @@ window.cipher = {
 
     for(let i=0; i<valueTextArea.length; i++) {
       var asciiCode = valueTextArea.charCodeAt(i)
-      console.log(asciiCode)
       if (asciiCode >= 65 && asciiCode <= 90) {
         resultado = (asciiCode - 65 + parseInt(valueInputNumber)) % 26 + 65
         newString = newString + String.fromCharCode(resultado)
