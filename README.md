@@ -29,7 +29,7 @@ También era importante incoporar un texto que animara a la gente a seguir reuni
 
 ## Pruebas en usuarios en reales
 
-Se realizaron pruebas en usuarios reales. Un total de 5 personas, las cuales tuvieron la oportunidad de acceder a la página web e
+Se realizaron pruebas en usuarios reales. Un total de 4 personas, las cuales tuvieron la oportunidad de acceder a la página web e
 interactuar en ella. 
 
 Para esto se utilizó un programa llamado Loom para poder grabar, además de la interacción en la pantalla, obtener y capturar las reacciones de los usuario al visitar por primera vez la página web. A continuación adjunto links de los videos ya mencionados.
@@ -37,29 +37,24 @@ Para esto se utilizó un programa llamado Loom para poder grabar, además de la 
 #### Usuario Real Nº 1
 
 ![alt text](Images/CapturaUsuarioReal1.png)
-[TEXT TO SHOW](https://www.loom.com/share/d2031dbe17be434fb67478a50ab1a29f)
+[Video Nº1](https://www.loom.com/share/d2031dbe17be434fb67478a50ab1a29f)
 
 #### Usuario Real Nº 2
 
 ![alt text](Images/CapturaUsuarioReal2.png)
-[TEXT TO SHOW](https://www.loom.com/share/b83bc938c30f4682bde7425466d767d7)
+[Video Nº2](https://www.loom.com/share/b83bc938c30f4682bde7425466d767d7)
 
 #### Usuario Real Nº 3
 
 ![alt text](Images/CapturaUsuarioReal3.png)
-[TEXT TO SHOW](https://www.loom.com/share/2da7943291394a39bf30d54e58145483)
+[Video Nº3](https://www.loom.com/share/2da7943291394a39bf30d54e58145483)
 
 #### Usuario Real Nº 4
 
 ![alt text](Images/CapturaUsuarioReal4.png)
-[TEXT TO SHOW](https://www.loom.com/share/05a14973d46141d697f00b72730d0586)
+[Video Nº4](https://www.loom.com/share/05a14973d46141d697f00b72730d0586)
 
-#### Usuario Real Nº 5
-
-![alt text](Images/CapturaUsuarioReal5.png)
-[TEXT TO SHOW]()
-
-Algunas apreciaciones que tuve, son las siguientes:
+Apreciaciones:
 - Es muy importante preguntar e informar sobre el sistema operativo que se está utilizando, en mi caso, utilizo MAC y
 no todos saben cómo funciona. Por eso, antes de comenzar a realizar los test, hacer una breve introducción a este sistema
 operativo para que la interacción en la página sea más amigable.
@@ -68,9 +63,7 @@ operativo para que la interacción en la página sea más amigable.
 
 - El 25% restante, le costó entender el sistema operativo del computador, lo que dificultó aún más la utilización de la
 página. No entendieron bien cómo se "enviaba un mensaje secreto" al principio, por lo que después de un momento tuve que
-explicar lo que trataba, para que pudiera proseguir con el test.
-
-- 
+explicar de lo que trataba, para que pudiera proseguir con el test.
 
 ## Imágenes Test Unitarios
 
@@ -78,4 +71,5 @@ explicar lo que trataba, para que pudiera proseguir con el test.
 ![alt text](Images/testunitarios2.png)
 
 ## Conclusión del Proyecto
+
 
