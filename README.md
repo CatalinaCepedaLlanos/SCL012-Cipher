@@ -76,4 +76,16 @@ explicar de lo que trataba, para que pudiera proseguir con el test.
 
 ## Conclusión del Proyecto
 
+El propósito del proyecto fue crear una página web que fuese capaz de cifrar y descifrar un texto. Para
+ello tuvimos que aprender en qué consistía un Cifrado César y a partir de esto, poder generar un formulario
+lo más simple y acotado posible, que diera una respuesta rápida.
 
+Mi problemática fue que al ser Testigo de Jehová en algunos países se niega el derecho de libertad de culto;
+por ende esta era una buena opción para poder seguir reuniéndonos pero en casas, por lo que el proyecto 
+servirá para codificar y decodificar mensajes, tales como: direcciones, lugares de reunuón, horarios, etc.
+
+Finalmente, el objetivo se cumple en la página web creada, realiza el cifrado y descifrado del texto ingresado.
+Tal vez el diseño escogido es muy sencillo y resta que la expericiencia pueda ser intuitiva, para alguien que no
+está  tan inmerso en el mundo de la tecnología.
+
+Para terminar, creo que pudo ser mucho más explicativa la página, y haberle sacado más provecho al UX Desing.
