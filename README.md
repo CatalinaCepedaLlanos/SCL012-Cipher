@@ -18,6 +18,9 @@ Para nosotros es muy importante el asistir a tales reuniones, por eso se vuelve 
 Ya tenía una idea preconcebida de cómo quería que se viese el proyecto, un color primario de entrada y sus derivados, acompañado por colores pasteles. Estudiando el uso de los colores en marketing descubrí que el azul suele vincularse a la serenidad, calma y paz; por eso sería perfecto utilizarlo para una plataforma que fuese usada por personas que se encuentran en incertidumbre y ansiedad por los acontecimientos que están pasando a su alrededor. 
 También era importante incoporar un texto que animara a la gente a seguir reuniéndose como era la costumbre antes de que el panorama cambiara en el país al que pertenecen; algo que les siguiera recordando que debían mantenerse enfocados.
 
+El diseño sencillo y sin instrucciones completas, es porque imaginé que al estar prohibida la religión y el congregarse,
+debía ser lo menos llamativo posible, para que no sospecharan nada.
+
 #### Bosquejo a mano alzada
 
 ![alt text](Images/IMG_20191030_100910.img.png)
@@ -88,4 +91,6 @@ Finalmente, el objetivo se cumple en la página web creada, realiza el cifrado y
 Tal vez el diseño escogido es muy sencillo y resta que la expericiencia pueda ser intuitiva, para alguien que no
 está tan inmerso en el mundo de la tecnología.
 
-Para terminar, creo que pudo ser mucho más explicativa la página, y haberle sacado más provecho al UX Desing.
+Para terminar, creo que pudo ser mucho más explicativa la página, y haberle sacado más provecho al UX Desing, pero en 
+base a mi idea de proyecto necesitaba algo que no llamase la atención y que fuese lo más directo posible; ya que mi 
+usuario final sabe para qué sirve y está al tanto que debe pasar desapercibido.
